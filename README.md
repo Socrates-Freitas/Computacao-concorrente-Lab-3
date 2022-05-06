@@ -67,7 +67,7 @@ O cálculo do *Ganho de desempenho* é a divisão do tempo de execução linear(
 <br/>
 
 
-## Configuração: Informações do computador usado para os testes acima:
+## Especificações do computador usado para os testes acima:
 
 <br/>
 
