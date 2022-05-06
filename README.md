@@ -25,7 +25,7 @@ O cálculo do *Ganho de desempenho* é a divisão do tempo de execução linear(
 
 
 | Nº de Threads |  Tempo de execução em Segundos  | Ganho de Desempenho|
-|---------------|---------------------------------|--------------------|                           
+|     :---:     |               :---:             |        :---:       |                           
 |  *Sequencial* |               *0.000267*        |         *#*        |
 | 1             |               0.000896          |    0.297991071     |
 | 2             |               0.000627          |    0.425837321     |
@@ -40,7 +40,7 @@ O cálculo do *Ganho de desempenho* é a divisão do tempo de execução linear(
 
 
 | Nº de Threads |  Tempo de execução em Segundos  | Ganho de Desempenho |
-|---------------|---------------------------------|---------------------|                           
+|     :---:     |               :---:             |        :---:        |                           
 |  *Sequencial* |               *0.024328*        |         *#*         |
 | 1             |               0.025391          |    0.958134772      |
 | 2             |               0.013579          |    1.791589955      |
@@ -57,7 +57,7 @@ O cálculo do *Ganho de desempenho* é a divisão do tempo de execução linear(
 
 
 | Nº de Threads |  Tempo de execução em Segundos  | Ganho de Desempenho |
-|---------------|---------------------------------|---------------------|                           
+|     :---:     |               :---:             |        :---:        |                           
 |  *Sequencial* |               *0.243419*        |         *#*         |
 | 1             |               0.251469          |    0.967988102      |
 | 2             |               0.131473          |    1.851475208      |
