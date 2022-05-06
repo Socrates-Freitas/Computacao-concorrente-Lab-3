@@ -5,7 +5,7 @@ Este é o terceiro Laboratório do curso de Computação Concorrente. Este proje
 
 ## Sobre o programa:
 
-O programa `Lab3.c` gera um vetor de números reais de tamanho *N* (fornecido na linha de comando), então o programa imprimirá o maior e menor valor deste vetor.
+O programa `Lab3.c` gera um vetor de tamanho *N*(fornecido na linha de comando) contendo números reais com valores aleatórios, então o programa imprimirá o maior e menor valor deste vetor.
 
 ## Metodologia:
 
